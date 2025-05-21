@@ -103,6 +103,5 @@ A comprehensive project focused on analyzing and forecasting the stock prices of
 ## Author
 
 **TARUN C**  
-Data Analyst | ML Developer  
-LinkedIn: [your-link-here]  
-Portfolio: [your-portfolio-link]
+Data Analyst INTERN
+UNIFIED MENTOR
